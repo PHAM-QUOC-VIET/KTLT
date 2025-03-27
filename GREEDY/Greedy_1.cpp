@@ -31,3 +31,11 @@ int main() {
     cout << steps;
     return 0;
 }
+
+
+
+
+
+
+
+
